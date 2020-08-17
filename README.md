@@ -14,4 +14,6 @@ npm i -g peer
 peerjs --port 9000
 ```
 
-[https://sample-video-meet.herokuapp.com/](https://sample-video-meet.herokuapp.com/)
+Go to [https://sample-video-meet.herokuapp.com/](https://sample-video-meet.herokuapp.com/) then send current tab link to your friends. 
+
+
