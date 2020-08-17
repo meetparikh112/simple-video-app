@@ -13,7 +13,7 @@ console.log('navigator.mediaDevices', navigator.mediaDevices);
 navigator.mediaDevices
 	.getUserMedia({
 		video: true,
-		audio: true,
+		audio: false,
 	})
 	.then((stream) => {
 		console.log('stream', stream);
